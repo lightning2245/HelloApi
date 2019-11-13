@@ -1,0 +1,12 @@
+C:\HelloAPI\Hello.Service\bin\Debug\netcoreapp2.2\Hello.Service.deps.json
+C:\HelloAPI\Hello.Service\bin\Debug\netcoreapp2.2\Hello.Service.dll
+C:\HelloAPI\Hello.Service\obj\Debug\netcoreapp2.2\Hello.Service.csprojAssemblyReference.cache
+C:\HelloAPI\Hello.Service\obj\Debug\netcoreapp2.2\Hello.Service.csproj.CoreCompileInputs.cache
+C:\HelloAPI\Hello.Service\obj\Debug\netcoreapp2.2\Hello.Service.AssemblyInfoInputs.cache
+C:\HelloAPI\Hello.Service\obj\Debug\netcoreapp2.2\Hello.Service.AssemblyInfo.cs
+C:\HelloAPI\Hello.Service\bin\Debug\netcoreapp2.2\Hello.Common.dll
+C:\HelloAPI\Hello.Service\bin\Debug\netcoreapp2.2\Hello.Common.pdb
+C:\HelloAPI\Hello.Service\obj\Debug\netcoreapp2.2\Hello.Service.csproj.CopyComplete
+C:\HelloAPI\Hello.Service\bin\Debug\netcoreapp2.2\Hello.Service.pdb
+C:\HelloAPI\Hello.Service\obj\Debug\netcoreapp2.2\Hello.Service.dll
+C:\HelloAPI\Hello.Service\obj\Debug\netcoreapp2.2\Hello.Service.pdb

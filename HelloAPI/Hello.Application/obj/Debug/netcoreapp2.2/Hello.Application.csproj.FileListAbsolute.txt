@@ -1,0 +1,17 @@
+C:\HelloAPI\Hello.Application\bin\Debug\netcoreapp2.2\Hello.Application.deps.json
+C:\HelloAPI\Hello.Application\bin\Debug\netcoreapp2.2\Hello.Application.runtimeconfig.json
+C:\HelloAPI\Hello.Application\bin\Debug\netcoreapp2.2\Hello.Application.runtimeconfig.dev.json
+C:\HelloAPI\Hello.Application\bin\Debug\netcoreapp2.2\Hello.Application.dll
+C:\HelloAPI\Hello.Application\bin\Debug\netcoreapp2.2\Hello.Application.pdb
+C:\HelloAPI\Hello.Application\obj\Debug\netcoreapp2.2\Hello.Application.csprojAssemblyReference.cache
+C:\HelloAPI\Hello.Application\obj\Debug\netcoreapp2.2\Hello.Application.csproj.CoreCompileInputs.cache
+C:\HelloAPI\Hello.Application\obj\Debug\netcoreapp2.2\Hello.Application.AssemblyInfoInputs.cache
+C:\HelloAPI\Hello.Application\obj\Debug\netcoreapp2.2\Hello.Application.AssemblyInfo.cs
+C:\HelloAPI\Hello.Application\obj\Debug\netcoreapp2.2\Hello.Application.dll
+C:\HelloAPI\Hello.Application\obj\Debug\netcoreapp2.2\Hello.Application.pdb
+C:\HelloAPI\Hello.Application\bin\Debug\netcoreapp2.2\Hello.Common.dll
+C:\HelloAPI\Hello.Application\bin\Debug\netcoreapp2.2\Hello.Service.dll
+C:\HelloAPI\Hello.Application\bin\Debug\netcoreapp2.2\Hello.Service.pdb
+C:\HelloAPI\Hello.Application\bin\Debug\netcoreapp2.2\Hello.Common.pdb
+C:\HelloAPI\Hello.Application\obj\Debug\netcoreapp2.2\Hello.Application.csproj.CopyComplete
+C:\HelloAPI\Hello.Application\bin\Debug\netcoreapp2.2\Hello.Application.dll.config
